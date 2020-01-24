@@ -1,8 +1,127 @@
+body {
+    font-family: 'Pacifico';
+    font-family: 'open sans';
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
 
 .color-fondo {
-    font-family: 'Open Sans', sans-serif;
-    background-color: #F5A9BC; 
-
-navbarNav {
-
+background-color: #F781BE;
 }
+
+span {
+    font-family: 'Pacifico';
+}
+
+.circular--portrait {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.circular--portrait img {
+  width: 100%;
+  height: auto;
+}
+a.navbar-brand {
+    width: 137px;
+    height: 46px;
+    font-size: 30px;
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    
+  }
+   
+  .imagen-fondo {
+    width: 300%;
+    height: auto;
+    padding: 600px;
+    margin: 0px;
+    position: absolute;
+  }
+
+  .hero-img img{
+    width: 100%;
+    padding-top: 20px;
+ 
+  }
+  
+.texto-encima {
+text-align: center;
+font-size: 50px;
+}
+
+.texto-encima2 {
+    text-align: center;
+    font-size: 60px;
+}
+
+.container-informacion  {
+    padding-top: 30px;
+    margin: 60px;
+    justify-content: center;
+}
+
+.experiencia h1{
+    text-align: center;
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+.iconos {
+    padding: 50px;
+    padding-left: 100px;
+    align-items: center;
+    color:  palevioletred;
+    text-align: center;
+}
+
+.iconos h3 {
+    color: mediumorchid; 
+    font-size: 30px;
+}
+
+.cards {
+    background-color: yellowgreen;
+}
+
+  
+.cards h1 {
+text-align: center;
+text-decoration: underline;
+padding: 30px;
+color: white;
+font-size: 60px;
+}
+
+.container h1 {
+    text-align: center;
+}
+
+.container h2 {
+    text-align: center;
+}
+
+.contacto button {
+    align-self: auto;
+    color: white;
+}
+.final { 
+    text-align: left;
+    background-color: #F781BE;
+    color: #ffffff;
+    padding: 30px;
+    width: 100%;
+}
+
+.final h1 {
+    font-size: 40px;
+}
+
