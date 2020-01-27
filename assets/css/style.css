@@ -36,9 +36,9 @@ a.navbar-brand {
     text-align: center;
     padding: 0;
     margin: 0;
-    
+
   }
-   
+
   .imagen-fondo {
     width: 300%;
     height: auto;
@@ -50,9 +50,14 @@ a.navbar-brand {
   .hero-img img{
     width: 100%;
     padding-top: 20px;
- 
+
   }
-  
+
+
+
+
+
+
 .texto-encima {
 text-align: center;
 font-size: 50px;
@@ -73,26 +78,31 @@ font-size: 50px;
     text-align: center;
     font-size: 60px;
     text-decoration: underline;
+    padding-top: 40px;
 }
 
 .iconos {
     padding: 50px;
-    padding-left: 100px;
+    padding-left: 200px;
+    padding-right: 100px;
     align-items: center;
     color:  palevioletred;
     text-align: center;
 }
 
 .iconos h3 {
-    color: mediumorchid; 
+    color: mediumorchid;
     font-size: 30px;
 }
+
+
+
 
 .cards {
     background-color: yellowgreen;
 }
 
-  
+
 .cards h1 {
 text-align: center;
 text-decoration: underline;
@@ -113,15 +123,10 @@ font-size: 60px;
     align-self: auto;
     color: white;
 }
-.final { 
+.container-fluid {
     text-align: left;
     background-color: #F781BE;
     color: #ffffff;
-    padding: 30px;
+   padding-left: 400px;
     width: 100%;
 }
-
-.final h1 {
-    font-size: 40px;
-}
-
