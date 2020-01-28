@@ -1,0 +1,61 @@
+
+
+font-family: 'Cabin', sans-serif;
+
+font-family: 'Lobster', cursive;
+
+
+nav.navbar {
+    background-color: #373A3C;
+}
+
+  
+.imagenes {
+    padding: 10px;
+}
+
+.principal {
+    padding-top: 50px;
+}
+
+.bg-white { 
+    padding: 60px;
+}
+
+
+
+
+.recetas h1{
+    text-align: center;
+
+}
+
+.card-deck {
+    padding: 20px;
+}
+
+
+.newsletter {
+    text-align: center;
+    padding: 100px;
+    color: #ffffff;
+
+}
+.newsletter h2 {
+    font-size: 20px;
+    text-align: center;
+}
+span {
+font-family: 'Lobster', cursive;
+    
+}
+
+footer { 
+    text-align: center;
+    background-color: #373A3C;
+    color: #ffffff;
+    padding: 10px;
+
+
+}
+

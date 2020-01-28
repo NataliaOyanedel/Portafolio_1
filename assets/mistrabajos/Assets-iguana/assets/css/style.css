@@ -1,0 +1,132 @@
+body {
+  text-align: left;
+  background: #000000;
+  margin: 0;
+  font-family: 'Raleway', Raleway light, Raleway medium;
+  color: #ffffff;
+}
+
+
+h1 {
+  color: #ffffff;
+  }
+
+h2 {
+  color: #ffffff;
+}
+
+p {
+  color: #ffffff;
+}
+
+.container-image  {
+  display: inline-block;
+
+}
+.hero-img img{
+  width: 100%;
+  padding-top: 20px;
+}
+
+
+
+.header {
+  text-align: center;
+  font-weight: 500;
+  font-size: 50px;
+color: #ffffff;
+margin: 0;
+padding: 0;
+}
+
+.desc-section {
+  background-color: #000000;
+  margin: 0;
+  padding: 45px; 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.desc-text {
+	width: 60%;
+	display: inline-block;
+	padding-right: 20px;
+	text-align: left;
+	vertical-align: middle;
+
+}
+
+.desc-img {
+  display: inline-block;
+  width: 30%;
+  vertical-align: middle;
+  }
+
+.desc-img img {
+	width: 100%;
+
+}
+
+
+
+.img-section {
+	text-align: center;
+	padding: 75px 0;
+
+}
+
+.image {
+	display: inline-block;
+	width: 30%;
+	vertical-align: middle;
+}
+
+.image img {
+	width: 90%;
+}
+
+
+
+.icons-section {
+	background-color: #1E1A13;
+	text-align: center;
+	padding: 10px;
+  margin: 0;
+  color: #000000;
+}
+
+.icons-section  {
+	font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 1em;
+}
+
+.icons {
+	display: inline-block;
+	width: 30%;
+  color: white;
+}
+
+.icons p {
+	font-size: 25px;
+	font-weight: 300;
+}
+
+
+footer {
+	background-color: #1E1A13;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	color: #ffffff;
+
+}
+
+footer  {
+	text-decoration: none;
+	color: white;
+  font-size: 30px;
+}
